@@ -1,0 +1,9 @@
+{
+  "compilerOptions": {
+    "noImplicitAny": true,
+    "module": "ES6",
+    "moduleResolution": "Node",
+    "sourceMap": true,
+    "target": "es5"
+  }
+}
